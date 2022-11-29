@@ -37,7 +37,7 @@ git tag
 
 ```
 
-git push origin --delete v1.0
+git push origin --delete v1.7
 
 ```
 
@@ -45,7 +45,7 @@ git push origin --delete v1.0
 
 ```
 
-git tag -d v1.0
+git tag -d v1.7
 
 ```
 
