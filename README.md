@@ -1,6 +1,6 @@
 # Lab 2 Git & GitHub
 
-<img src ="https://www.freecodecamp.org/news/content/images/2022/07/git-github.png" width="900" height="700">
+<img src ="https://www.freecodecamp.org/news/content/images/2022/07/git-github.png" width="600" height="400">
 
 
 
